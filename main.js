@@ -40,3 +40,4 @@ class Hello{
 
 a = new Hello();
 console.log();
+
