@@ -1,0 +1,1 @@
+require('./printHello')(3);
